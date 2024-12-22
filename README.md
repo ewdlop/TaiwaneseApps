@@ -14,7 +14,7 @@ Chinese Family Member/Taiwanese Family Member/American Family members
 ### Taiwanese Game Controller
 #4 opened 1 minute ago by ewdlop
 
-- Regular Game Controller + 4 more key pad(North East, North West, South West, and South East)
+- Regular Game Controller + 4 more keypad(North East, North West, South West, and South East)
 
 ### Taiwanese Tactical Nukes
 #3 opened 8 minutes ago by ewdlop
