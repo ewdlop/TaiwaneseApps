@@ -6,3 +6,5 @@ Extremly Idenitiy criss!!! Chinese vs Taiwanese vs American!!!!!!!!!! Nutty Eart
 Taiwanese friends/American Friends/Chinese Friends
 
 Chinese Family Member/Taiwanese Family Member/American Family members
+
+##Bermuda Triangle
