@@ -11,6 +11,7 @@ Chinese Family Member/Taiwanese Family Member/American Family members
 
 ## Ideas
 
+### Taiwanese Amazon
 
 ### Taiwanese OS(Operation System)
 
