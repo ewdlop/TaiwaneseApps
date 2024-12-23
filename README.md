@@ -1,17 +1,17 @@
 # TaiwaneseNote
-Extremly Idenitiy criss!!! Chinese vs Taiwanese vs American!!!!!!!!!! Nutty Earthling!
+Extremely Idenitiy crisis!!! Chinese | Taiwanese | American!!!!!!!!!! Nutty Earthling!
 
 ## Verbosity = Spelling Bee = Spelling Pratice = Proper English = No Acronym = No Ambiguation
 
 Taiwanese friends/American Friends/Chinese Friends
 
-Chinese Family Member/Taiwanese Family Member/American Family members
+Chinese Family Members/Taiwanese Family Members/American Family members
 
 ##Bermuda Triangle
 
 ## Ideas
 
-### Taiwanese Seral Killer Mosquito
+### Taiwanese Serial Killer Mosquito
 
 [台南登革熱(https://github.com/kiang/TainanDengueMap)](https://github.com/kiang/TainanDengueMap)
 
