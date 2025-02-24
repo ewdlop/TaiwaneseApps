@@ -49,6 +49,8 @@ Chinese Family Members/Taiwanese Family Members/American Family members
 
 ### Taiwanese OS(Operation System)
 
+
+
 ### Taiwanese Spaceship
 
 #5 Pro-Taiwan as SpaceShip as a Service(PROTOSS)
@@ -98,3 +100,5 @@ fetchTaiwanData('https://api.example.com/taiwan-data')
 1. Include the `taiwanese-api.js` file in your project.
 2. Use the `fetchTaiwanData` function to fetch data from the desired endpoint.
 3. Handle the fetched data in your application as needed.
+
+### Entire country
